@@ -2,7 +2,7 @@
 
 *06 de março, 2020*
 
-## **1.   Descrição geral do problema**
+## **Descrição geral do problema**
 
 ---
 
